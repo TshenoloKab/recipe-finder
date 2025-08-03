@@ -4,7 +4,7 @@ A responsive React app that helps users search and discover recipes from around 
 
 ## 🔗 Live Demo
 
-👉 [View the Live Site](https://your-netlify-link.netlify.app)
+👉 [View the Live Site](https://recipe-finder-tkdev.netlify.app/)
 
 ---
 
@@ -23,7 +23,7 @@ A responsive React app that helps users search and discover recipes from around 
 
 - **React**
 - **JavaScript**
-- **CSS **
+- **CSS**
 - **React Icons**
 - **TheMealDB API**
 - **Netlify** (deployment)
