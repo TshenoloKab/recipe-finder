@@ -1,8 +1,33 @@
-# React + Vite
+# 🍽️ Recipe Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive React app that helps users search and discover recipes from around the world using TheMealDB API. Features a clean, responsive interface with real-time API integration.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [View the Live Site](https://your-netlify-link.netlify.app)
+
+---
+
+## 🚀 Features
+
+- 🔎 Search for recipes by keyword (e.g. "chicken", "pasta")
+- 🧠 Real-time data fetching from TheMealDB API
+- 🍱 Responsive recipe cards with images, categories, and links
+- 🌀 Loading and error states
+- 💡 Clean, accessible UI built with React
+- ✅ Deployed with Netlify
+
+---
+
+## 🛠️ Tech Stack
+
+- **React**
+- **JavaScript**
+- **CSS **
+- **React Icons**
+- **TheMealDB API**
+- **Netlify** (deployment)
+- **Git & GitHub**
+
+---
+
